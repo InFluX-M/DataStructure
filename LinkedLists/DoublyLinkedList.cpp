@@ -93,7 +93,6 @@ public:
         if(isEmpty()) throw "List is empty";
         return remove(this->header->getNext());
     }
-
     T removeLast()
     {   
         if(isEmpty()) throw "List is empty";
