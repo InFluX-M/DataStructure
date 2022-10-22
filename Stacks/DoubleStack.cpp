@@ -1,11 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#include <bits/stdc++.h>
-#include <stack>
-
-using namespace std;
-
 template <class T>
 class DoubleStack
 {
